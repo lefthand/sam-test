@@ -1,0 +1,14 @@
+{
+    "TimeFunction": {
+        "lambda": {},
+        "apigateway": {
+            "path": "/TimeResource",
+            "method": {
+                "value": "GET",
+                "items": [
+                    "GET"
+                ]
+            }
+        }
+    }
+}
